@@ -22,8 +22,8 @@
 
   <h3>Principais projetos</h3>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=analisando-banda-ACDC&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=Final_LuckStudy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=arvore_binaria&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=strife&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=analisando-banda-ACDC&theme=radical)](https://github.com/EriqueFernandes/analisando-banda-ACDC)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=Final_LuckStudy&theme=radical)](https://github.com/EriqueFernandes/Final_LuckStudy)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=arvore_binaria&theme=radical)](https://github.com/EriqueFernandes/arvore_binaria)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=strife&theme=radical)](https://github.com/EriqueFernandes/strife)
 </div>
