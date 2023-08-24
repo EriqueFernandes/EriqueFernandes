@@ -4,9 +4,10 @@
     <li>Nome Completo: Erique Mateus Fernandes dos Santos</li>
     <li>Cidade: Belo Horizonte - MG</li>
     <li>Celular: (21) 96741-2706</li>
-    <li>E-mail: erique4825@gmail.com</li>
+    <li>E-mail: <a href = "erique4825@gmail.com">erique4825@gmail.com</a></li>
     <li>Lattes: <a href="http://lattes.cnpq.br/6793284585411542" target="_blanck">lattes.cnpq.br/6793284585411542</a></li>
   </ul>
+  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
 <div>
   <h2>Formação acadêmica</h2>
