@@ -5,7 +5,7 @@
     <li>Cidade: Belo Horizonte - MG</li>
     <li>Celular: (21) 96741-2706</li>
     <li>E-mail: erique4825@gmail.com</li>
-    <li>Lattes: lattes.cnpq.br/6793284585411542</li>
+    <li>Lattes: <a href="http://lattes.cnpq.br/6793284585411542" target="_blanck">lattes.cnpq.br/6793284585411542</a></li>
   </ul>
 </div>
 <div>
