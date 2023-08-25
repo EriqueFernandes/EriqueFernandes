@@ -18,6 +18,21 @@
     <li>Graduando em Matemática Aplicada - Bacharelado- Fundação Getúlio Vargas - Rio de Janeiro - Trancado, 3/8 períodos realizados </li>
   </ul>
 </div>
+<h2>Conquistas de conhecimento</h2>
+<h6>Olimpíada Brasileira de Matemática das Escolas Públicas - OBMEP - <a href = "https://www.obmep.org.br/">https://www.obmep.org.br/</a></h6>
+<div flex-wrap = wrap>
+  <div width = 50%>
+    <ul>
+      <li>Medalhista de Bronze na OBMEP 2015</li>
+      <li>Medalhista de Prata na OBMEP 2016</li>
+      <li>Menção Honrosa na OBMEP 2017</li>
+      <li>Medalhista de Prata na OBMEP 2018</li>
+    </ul>
+  </div>
+  <div width = 50%>
+    <img width = "300" src="https://impa.br/wp-content/uploads/2017/06/DSC_0673-e1496667635846.jpg"/>
+  </div>
+</div>
 <div>
   <h2>Principais linguagens de programação utilizadas dentro do GitHub</h2>
   
@@ -29,6 +44,15 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=Final_LuckStudy&theme=radical)](https://github.com/EriqueFernandes/Final_LuckStudy)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=arvore_binaria&theme=radical)](https://github.com/EriqueFernandes/arvore_binaria)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EriqueFernandes&repo=strife&theme=radical)](https://github.com/EriqueFernandes/strife)
+
+  <h2>Canva</h2>
+  <a href = ""https://www.canva.com/><img width = "200" src="https://logodownload.org/wp-content/uploads/2020/11/canva-logo-0.png" /></a>
+  <ul>
+    <li><a href = "https://www.canva.com/design/DAFsk6eS7Aw/wr52BN2zPukOlDjjLMUIfA/edit?utm_content=DAFsk6eS7Aw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Banco de dados</a></li>
+    <li><a href = "https://www.canva.com/design/DAFSmq4v-wM/BG4GUTSTKcVKlqWaPZSfSA/edit?utm_content=DAFSmq4v-wM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">O poder do mercado</a></li>
+    <li><a href = "https://www.canva.com/design/DAFRYuhA6JE/lymh9BbB9HlsKcH0CMU0Zw/edit?utm_content=DAFRYuhA6JE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">PageRank</a></li>
+    <li><a href = "https://www.canva.com/design/DAFSIlVqywc/nt2xFAU_E5cu9oLebSuc3Q/edit?utm_content=DAFSIlVqywc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Teoria dos jogos</a></li>
+  </ul>
 
   <h2>Cursos e aprimoramentos</h2>
   
@@ -48,5 +72,16 @@
   <h6>Link para informações sobre: <a href = "https://picme.obmep.org.br/">picme.obmep.org.br</a></h6>
   <p>Em andamento</p>
   <p>Conteúdo: O PICME é um programa que oferece aos estudantes universitários que se destacaram nas Olimpíadas de Matemática (medalhistas da OBMEP ou da OBM) a oportunidade de realizar estudos avançados em Matemática simultaneamente com a graduação</p>
+
+  <h2>Habilidades</h2>
+  <ul>
+    <li>Fácil adaptação</li>
+    <li>Ótimo relacionamento interpessoal</li>
+    <li>Proativo</li>
+    <li>Comunicativo</li>
+    <li>Flexível</li>
+    <li>Dinâmico</li>
+    <li>Resolução de problemas</li>
+  </ul>
   
 </div>
