@@ -6,7 +6,7 @@
     <li>Celular: (21) 96741-2706</li>
     <li>E-mail: <a href = "mailto:erique4825@gmail.com">erique4825@gmail.com</a></li>
     <li>Lattes: <a href="http://lattes.cnpq.br/6793284585411542" target="_blanck">lattes.cnpq.br/6793284585411542</a></li>
-    <li>Currículo PDF: <a href="https://www.canva.com/design/DAFqIuSuzCY/SGfoJNRSbSCv7-FuNS5ubg/edit?utm_content=DAFqIuSuzCY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blanck">Currículo - Erique</a></li>
+    <li>Currículo PDF: <a href="https://drive.google.com/file/d/1HpTyTg0KYQY9kLve9fEJuOBA8NiZ4Pli/view?usp=sharing" target="_blanck">Currículo - Erique</a></li>
   </ul>
   <a href = "mailto:erique4825@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href = "https://wa.me/5521967412706"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
